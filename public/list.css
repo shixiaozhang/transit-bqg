@@ -1,0 +1,221 @@
+.box_con {
+    overflow: hidden;
+    margin: 10px auto;
+    width: 976px;
+    border: 2px solid #88c6e5;
+    line-height: 100%
+}
+
+.con_top {
+    padding: 0 10px;
+    height: 30px;
+    border-bottom: 1px solid #88c6e5;
+    background-color: #e1eced;
+    line-height: 30px
+}
+
+.con_top #bdshare {
+    float: right;
+    padding-right: 20px;
+    height: 20px;
+    text-align: right;
+    line-height: 20px
+}
+
+#sidebar {
+    float: right;
+    width: 27%;
+    border-left: 1px dashed #88c6e5;
+    text-align: left
+}
+
+#sidebar .xian {
+    overflow: hidden;
+    width: 100%;
+    height: 1px;
+    border-top: 1px dashed #88c6e5
+}
+
+.sidebartitle {
+    overflow: hidden;
+    padding: 10px;
+    width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 180%;
+    -o-text-overflow: ellipsis
+}
+
+.sidebarlist {
+    overflow: hidden;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    height: 250px;
+    line-height: 180%
+}
+
+.sidebarlist a {
+    float: left;
+    overflow: hidden;
+    margin: 6px 0;
+    width: 49.5%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis
+}
+
+#maininfo {
+    width: 950px
+}
+
+#fmimg {
+    position: relative;
+    float: left;
+    margin: 15px 15px 0 10px;
+    padding: 5px;
+    width: 156px;
+    background-color: #e1eced
+}
+
+#fmimg img {
+    margin: 3px;
+    width: 150px;
+    height: 180px;
+    border: none
+}
+
+#fmimg span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 999;
+    display: block;
+    width: 88px;
+    height: 88px;
+    background: url(../images/status.gif) no-repeat
+}
+
+#fmimg span.blue {
+    background-position: 0 -88px
+}
+
+#info {
+    float: left;
+    margin: 15px 0 0 0;
+    padding: 0 10px;
+    width: 720px;
+    font-size: 14px
+}
+
+#info h1 {
+    overflow: hidden;
+    margin-bottom: 5px;
+    height: 24px;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: "����";
+    line-height: 24px
+}
+
+#info p {
+    float: left;
+    overflow: hidden;
+    margin: auto;
+    padding-top: 2px;
+    width: 350px;
+    height: 25px;
+    line-height: 25px
+}
+
+#intro {
+    clear: both;
+    display: block;
+    overflow: hidden;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px dashed #b2b2b2;
+    font-size: 12px;
+    line-height: 180%
+}
+
+#intro p {
+    float: none;
+    margin: 0 0;
+    width: 100%
+}
+
+.tjlist {
+    padding: 10px
+}
+
+#list dl {
+    overflow: hidden;
+    margin: auto
+}
+
+#list dt {
+    float: left;
+    display: inline;
+    overflow: hidden;
+    margin: auto auto 5px auto;
+    padding: 5px 10px;
+    width: 960px;
+    background: none repeat scroll 0 0 #c3dfea;
+    vertical-align: middle;
+    text-align: center;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 28px
+}
+
+#list dd {
+    float: left;
+    overflow: hidden;
+    margin-bottom: 5px;
+    width: 25%;
+    height: 30px;
+    border-bottom: 1px dashed #ccc;
+    vertical-align: middle;
+    text-align: left;
+    text-indent: 10px;
+    line-height: 200%
+}
+
+#list dd A:link {
+    color: #444;
+    TEXT-DECORATION: none
+}
+
+#list dd A:visited {
+    COLOR: #999
+}
+
+#list dd A:hover {
+    TEXT-DECORATION: underline
+}
+
+.fr {
+    float: right
+}
+
+.fl {
+    float: left
+}
+
+.red {
+    color: red
+}
+
+.comment {
+    margin-top: 10px
+}
+
+.comment .title {
+    padding: 10px 10px;
+    border-bottom: 1px dashed #e5e5e5;
+    background: #c3dfea;
+    font-weight: 700;
+    font-size: 14px
+}

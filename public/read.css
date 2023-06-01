@@ -1,0 +1,30 @@
+.content_read{margin:10px auto auto;width:980px;overflow:hidden}
+.cont_tools{text-align:center;height:36px;line-height:36px;vertical-align:middle}
+#box_con{border:3px solid #c3dfea}
+.con_top{text-align:left;padding:0 10px;line-height:36px;height:36px;width:98%;background:#e1eced;border-bottom:solid 1px #d3d3d3}
+.con_top #bdshare{float:right;text-align:right;height:20px;line-height:20px;padding-right:20px}
+.bookname{line-height:30px;margin:auto}
+.bookname h1{text-align:center;font:30px/35px "黑体";padding-top:10px}
+.bookname p{text-align:center;font-size:14px}
+.bookname .zhangjie{text-align:center}
+.bookname .zhangjie a{margin:0 10px;font-size:14px}
+#content{width:940px;font-size:24px;letter-spacing:.2em;line-height:180%;margin:auto;padding-top:10px;word-wrap:break-word}
+#content p{line-height:180%}
+#content div{font-size:14px;line-height:180%}
+#content p div img,#content p img,.divimage,.imagecontent{text-align:center;margin:auto}
+.bottem{text-align:center;width:900px;padding-top:10px}
+.bottem a{padding:0 15px;font-size:14px}
+.bottem p{color:#b2b2b2;font-size:12px;padding:15px 0}
+.fr{float:right}
+.fl{float:left}
+.red{color:red}
+.content-tip{padding:5px 10px;border:1px dashed #e5e5e5;margin-top:10px;line-height:26px}
+.content-tip,.content-tip a{color:#999;font-size:14px;letter-spacing:0}
+.read-titlelinke{clear:both;text-align:center;position:relative;padding:0 0}
+.read-titlelinke a{margin-left:10px}
+.kongwen{clear:both;float:left;width:1px;height:900px}
+.kongwen.lg{height:1200px}
+.kongwen.xl{height:1800px}
+.middlead{float:right;width:336px;height:280px;clear:left;margin:0 5px 10px 5px}
+.middlead.left{float:left;margin:0 5px 10px 5px}
+.top-read-ad{padding:2px;float:left;width:300px;height:250px;margin-left:10px;border:1px dotted #e5e5e5}
