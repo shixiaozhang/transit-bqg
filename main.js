@@ -44,8 +44,8 @@ app.get("*", async (req, res) => {
       .append(`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8017281843233576"
      crossorigin="anonymous"></script>`);
     const html = $.html()
-      .replace(/https\:\/\/www\.xbiquge\.tw/g, "http://localhost:8000")
-      .replace(/https\:\/\/m\.xbiquge\.tw/g, "http://localhost:8000");
+      .replace(/https\:\/\/www\.xbiquge\.tw/g, "https://biquge.world")
+      .replace(/https\:\/\/m\.xbiquge\.tw/g, "https://biquge.world");
     res.send(html);
   } else {
     res.send(data);
